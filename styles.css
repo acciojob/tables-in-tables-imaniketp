@@ -1,6 +1,6 @@
 .main {
     box-sizing: border-box;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 1000px;
     height: 500px;
   }
@@ -8,7 +8,7 @@
   .box1 {
     position: absolute;
     box-sizing: border-box;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 500px;
     height: 350px;
     margin: 3px 0px 0px 2px;
@@ -17,7 +17,7 @@
   .tbox1 {
     position: absolute;
     box-sizing: border-box;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 495px;
     height: 140px;
     margin: -392px 0px 0px 5px;
@@ -27,7 +27,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 488px;
     height: 43px;
     margin: -389px 0px 0px 8px;
@@ -37,7 +37,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 242px;
     height: 43px;
     margin: -343px 0px 0px 8px;
@@ -49,7 +49,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 242px;
     height: 43px;
     margin: -343px 0px 0px 254px;
@@ -61,7 +61,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 242px;
     height: 43px;
     margin: -298px 0px 0px 8px;
@@ -72,7 +72,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 242px;
     height: 43px;
     margin: -298px 0px 0px 254px;
@@ -85,7 +85,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 493px;
     height: 350px;
     margin: -497px 0px 0px 504px;
@@ -94,7 +94,7 @@
   .tbox2 {
     position: absolute;
     box-sizing: border-box;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 485px;
     height: 218px;
     margin: 60px 0px 0px 3px;
@@ -103,7 +103,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 478px;
     height: 43px;
     margin: 64px 0px 0px 6px;
@@ -115,7 +115,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 478px;
     height: 165px;
     margin: 110px 0px 0px 6px;
@@ -134,7 +134,7 @@
   .box3 {
     position: absolute;
     box-sizing: border-box;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 500px;
     height: 145px;
     margin: -145px 0px 0px 2px;
@@ -143,7 +143,7 @@
   .tbox3 {
     position: absolute;
     box-sizing: border-box;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 492px;
     height: 88px;
     margin: 30px 0px 0px 3px;
@@ -153,7 +153,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 484px;
     height: 39px;
     margin: 34px 0px 0px 7px;
@@ -166,7 +166,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 240px;
     height: 38px;
     margin: 76px 0px 0px 7px;
@@ -180,7 +180,7 @@
     position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 240px;
     height: 38px;
     margin: 76px 0px 0px 251px;
@@ -193,7 +193,7 @@
   .box4 {
     position: absolute;
     box-sizing: border-box;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 493px;
     height: 145px;
     margin: -145px 0px 0px 504px;
@@ -202,7 +202,7 @@
   .tbox4{
       position: absolute;
       box-sizing: border-box;
-      border: 1px solid black;
+      border: 2px solid black;
       width: 485px;
       height: 88px;
       margin: 30px 0px 0px 3px;  
@@ -212,7 +212,7 @@
       position: absolute;
     box-sizing: border-box;
     font-family: "Times New Roman", Times, serif;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 477px;
     height: 39px;
     margin: 34px 0px 0px 7px;
@@ -225,7 +225,7 @@
       position: absolute;
       box-sizing: border-box;
       font-family: "Times New Roman", Times, serif;
-      border: 1px solid black;
+      border: 2px solid black;
       width: 477px;
       height: 39px;
       margin: 75px 0px 0px 7px;
